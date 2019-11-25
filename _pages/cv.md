@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Biological Sciences and Bioengineering, Indian Institute of Technology Kanpur, 2012-2016
+* Ph.D. in Systems, Synthetic, and Physical Biology, Rice Univeristy, 2016-2021 (expected)
 
 Work experience
 ======
