@@ -1,7 +1,7 @@
 ---
 title: "Hierarchy in gene expression is predictive of risk, progression, and outcome in adult acute myeloid leukemia"
 collection: publications
-<!-- permalink: /publication/2009-10-01-paper-title-number-1 -->
+permalink: /publication/2015-PhysBiol
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2015
 venue: 'Physical Biology'
