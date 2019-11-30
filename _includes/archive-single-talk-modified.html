@@ -31,8 +31,9 @@
     {% endif %}
     <br>
     <i>{{ post.venue }}</i>, {{post.location}}.
+    <br>
+    <span class="page__meta">{{ post.date | date: '%B %d, %Y' }}</span>
   </p>
-  <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
 <!--     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}<br>
     <p class="archive__item-excerpt" itemprop="description">{{ post.venue }}, {{post.location}}</p> -->
 
