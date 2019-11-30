@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<p> You can also find my publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></p>
+<p> You can also find my publications on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
 {% for post in site.publications reversed %}
   {% include archive-single-modified-pub.html %}
 {% endfor %}
