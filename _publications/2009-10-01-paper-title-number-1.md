@@ -5,6 +5,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 link: 'https://iopscience.iop.org/article/10.1088/1478-3975/12/1/016016/meta'
 date: 2009-10-01
 venue: 'Journal 1'
+authors: 'Shubham Tripathi, and Michael W. Deem'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

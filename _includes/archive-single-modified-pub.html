@@ -30,10 +30,11 @@
 <!--       <h3 class="archive__item-title" itemprop="headline">
         {{title}} 
       </h3> -->
-      <p>{{title}} [<a href="{{ post.link }}">Link</a>]</p>
+      <p>{{title}} [<a href="{{ post.link }}">Link</a>]<br>
+        {{ post.authors }}, <i>{{ post.venue }}</i> ({{ post.date | default: "1900-01-01" | date: "%Y" }})</p>
     {% endif %}
     
-    {% if post.read_time %}
+<!--     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
@@ -43,7 +44,7 @@
           <p><i>{{ post.venue }}</i> ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+        {% endif %} -->
 
 <!--     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
