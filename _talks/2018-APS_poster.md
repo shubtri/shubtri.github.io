@@ -1,5 +1,5 @@
 ---
-title: "The Standard Genetic Code Facilitates Exploration of the Space of Functional Nucleotide Sequences. (Poster)"
+title: "The Standard Genetic Code Facilitates Exploration of the Space of Functional Nucleotide Sequences (Poster)"
 collection: talks
 type: "Talk"
 venue: "March Meeting of the Americal Physical Society"

@@ -1,5 +1,5 @@
 ---
-title: "Modularity Promotes Adaptation in a Model of Exploratory Evolution. (Poster)"
+title: "Modularity Promotes Adaptation in a Model of Exploratory Evolution (Poster)"
 collection: talks
 type: "Talk"
 venue: "March Meeting of the Americal Physical Society"
