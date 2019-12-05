@@ -86,7 +86,7 @@ author:
   location         : "Boston, Massachusetts"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NwiKwS0AAAAJ&hl=en"
-  email            :
+  email            : shubtri707@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -263,6 +263,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
