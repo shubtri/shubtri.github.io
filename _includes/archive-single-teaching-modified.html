@@ -28,7 +28,6 @@
     <p><b>{{ title }} </b>
     <br>
     <i>{{ post.venue }}</i>
-    <br>
     {% if post.excerpt %}<span class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</span>{% endif %}
   </p>
 <!--     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}<br>
