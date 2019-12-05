@@ -4,10 +4,13 @@ main:
     url: /publications/
 
   - title: "Talks & Posters"
-    url: /talks/    
+    url: /talks/
+
+  - title: "Contact"
+    url: /contact/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-                
+  #   url: /teaching/
+
   # - title: "CV"
   #   url: /cv/
