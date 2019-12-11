@@ -264,7 +264,6 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
-  - jekyll-maps
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -272,11 +271,12 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-maps:
-    google:
-      api_key: AIzaSyDW8NJ5tEIEmHWav-xfcYpWbekcG69QufQ
-
+mapping:
+  provider: google_js
+  api_key: AIzaSyDW8NJ5tEIEmHWav-xfcYpWbekcG69QufQ
+  zoom: 10
+  latitude: 51.101
+  longitude: 0.1
 
 # Archives
 #  Type
