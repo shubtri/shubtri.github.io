@@ -271,12 +271,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-mapping:
-  provider: google_js
-  api_key: AIzaSyDW8NJ5tEIEmHWav-xfcYpWbekcG69QufQ
-  zoom: 10
-  latitude: 51.101
-  longitude: 0.1
 
 # Archives
 #  Type
