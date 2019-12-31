@@ -26,6 +26,12 @@
       </div>
     {% endif %}
     <p><b>{{ title }} </b>
+    {% if post.invited %}
+    <i>(Invited Talk)</i>
+    {% endif %}
+    {% if post.chalk %}
+    <i>(Chalk Talk)</i>
+    {% endif %}
     {% if post.link %}
     [<a href="{{ post.link }}">Abstract</a>]
     {% endif %}
