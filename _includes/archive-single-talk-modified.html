@@ -35,6 +35,9 @@
     {% if post.poster %}
     <i>(Poster)</i>
     {% endif %}
+    {% if post.online %}
+    <i>(Online Talk)</i>
+    {% endif %}
     {% if post.link %}
     [<a href="{{ post.link }}">Abstract</a>]
     {% endif %}
@@ -42,6 +45,11 @@
     <i>{{ post.venue }}</i>, {{post.location}}
     <br>
     <span class="page__meta">{{ post.date | date: '%B %d, %Y' }}</span>
+    <br>
+    {% if post.info %}
+    {{ post.info }}
+    {% endif %}
+    <br>
   </p>
 <!--     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}<br>
     <p class="archive__item-excerpt" itemprop="description">{{ post.venue }}, {{post.location}}</p> -->
