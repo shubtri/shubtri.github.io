@@ -36,13 +36,16 @@
     <i>(Poster)</i>
     {% endif %}
     {% if post.online %}
-    <i>(Online Talk)</i>
+    <i>(Virtual Talk)</i>
     {% endif %}
     {% if post.link %}
     [<a href="{{ post.link }}">Abstract</a>]
     {% endif %}
+    {% if post.video %}
+    [<a href="{{ post.video }}">Video</a>]
+    {% endif %}
     <br>
-    <i>{{ post.venue }}</i>, {{post.location}}
+    <i>{{ post.venue }}</i>{% if post.location %}, {{post.location}}{% endif %}
     <br>
     <span class="page__meta">{{ post.date | date: '%B %d, %Y' }}</span>
     {% if post.info %}
