@@ -185,10 +185,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  policy:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -243,14 +239,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _policy
-  - scope:
-      path: ""
-      type: policies
-    values:
-      layout: policy
       author_profile: true
       share: true
 
