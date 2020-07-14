@@ -30,9 +30,7 @@
     [<a href="{{ post.link }}">Link</a>]
     {% endif %}
     <br>
-    {{ post.authors }}
-    <br>
-    <i>{{ post.venue }}</i>
+    {{ post.authors }}, <i>{{ post.venue }}</i>
     <br>
     <span class="page__meta">{{ post.date | date: '%B %d, %Y' }}</span>
     {% if post.info %}
