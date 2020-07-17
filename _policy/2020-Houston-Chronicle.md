@@ -5,5 +5,5 @@ link: 'https://www.houstonchronicle.com/opinion/outlook/article/Opinion-Banning-
 date: 2020-07-11
 venue: 'The Houston Chronicle'
 authors: 'Shubham Tripathi and Kathryn Brink'
-info: 'This op-ed is a part of a series on immigration issues related to higher education. Other op-eds in this series:<ul><li><b>As immigrant scientists advance lifesaving research, lawmakers must protect them</b> [<a href="https://www.dailycal.org/2020/07/10/as-immigrant-scientists-advance-lifesaving-research-lawmakers-must-protect-them/">Link</a>]</li></ul>'
+info: 'This op-ed is a part of a series on immigration issues related to higher education. Other op-eds in this series:<ul><li><b>As immigrant scientists advance lifesaving research, lawmakers must protect them</b> [<a href="https://www.dailycal.org/2020/07/10/as-immigrant-scientists-advance-lifesaving-research-lawmakers-must-protect-them/">Link</a>]</li></ul>The initiative was organized with colleagues from the NSPN.'
 ---
