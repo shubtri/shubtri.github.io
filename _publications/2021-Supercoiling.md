@@ -1,8 +1,8 @@
 ---
-title: "Mechanical Interplay Between Transcription Elongation and DNA Supercoiling"
+title: "DNA Supercoiling-mediated Collective Behavior of Co-transcribing RNA Polymerases"
 collection: publications
-link: 'https://www.biorxiv.org/content/10.1101/2021.03.04.433986v1.abstract'
-date: 2021-03-04
-venue: 'Biorxiv preprint'
+link: 'https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab1252/6482583'
+date: 2021-12-24
+venue: 'Nucleic Acids Research'
 authors: 'Shubham Tripathi, Sumitabha Brahmachari, José N. Onuchic, and Herbert Levine'
 ---
