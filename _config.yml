@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shubham Tripathi"
 title_separator          : "-"
 name                     : &name "Shubham Tripathi"
-description              : &description "Graduate Student at Rice Univeristy; Visiting Scholar at Northeastern Univeristy."
+description              : &description "Postdoctoral Associate at Yale University"
 url                      : https://shubtri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shubtri.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shubham Tripathi"
   avatar           : "profile.jpg"
-  bio              : "Trying to understand cancer using physics and a computer."
-  location         : "Boston, Massachusetts"
+  bio              : "Interested in the mechanisms underlying heterogeneity in biological systems and responses"
+  location         : "New Haven, Connecticut"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NwiKwS0AAAAJ&hl=en"
   email            :
