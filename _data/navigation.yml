@@ -12,8 +12,8 @@ main:
   - title: "Science and Public Policy"
     url: /policy/
 
+  - title: "CV"
+    url: /cv/
+    
   - title: "Contact"
     url: /contact/
-
-  # - title: "CV"
-  #   url: /cv/
