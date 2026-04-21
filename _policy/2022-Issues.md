@@ -1,6 +1,7 @@
 ---
 title: "Bridging Divides Through Science Diplomacy"
 collection: policy
+published: false
 link: 'https://issues.org/bridging-divides-science-diplomacy-tripathi-gu-arora-brown-schwarber/'
 date: 2021-12-22
 venue: 'Issues in Science and Technology'

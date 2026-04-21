@@ -2,6 +2,8 @@
 permalink: /policy/
 title: "Science & Public Policy"
 author_profile: true
+published: false
+sitemap: false
 ---
 
 I am broadly interested in science and public policy, with a focus on immigration and foreign policy issues as they relate to science. I am a member of the [National Science Policy Network](https://scipolnetwork.org/) (NSPN). My publications on these issues are listed below.

@@ -1,8 +1,8 @@
 ---
-title: "A multi-level formalism to capture the characteristics of hybrid phenotypes in Epithelial-Mesenchymal Plasticity"
+title: "A multilevel formalism to model the hybrid E/M phenotypes in epithelial-mesenchymal plasticity"
 collection: publications
-link: 'https://www.biorxiv.org/content/10.1101/2024.11.26.625479v1'
-date: 2024-12-02
-venue: 'BioRxiv preprint'
+link: 'https://www.cell.com/biophysj/abstract/S0006-3495(25)00772-6'
+date: 2025-11-20
+venue: 'Biophysical Journal'
 authors: 'Kishore Hari, Shubham Tripathi, Vaibhav Anand, Mohit Kumar Jolly, and Herbert Levine'
 ---
